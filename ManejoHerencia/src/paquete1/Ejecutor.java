@@ -12,7 +12,9 @@ import paquete1.Persona;
 
 /**
  *
- * @author reroes
+ * @author 
+ * Giovanni Villavicencio
+ * Jhordan Bustamante 
  */
 public class Ejecutor {
 
